@@ -39,7 +39,7 @@
         "lodash.template": "^4.5.0",
         "minimatch": "^3.0.4",
         "mkdirp": "^0.5.1",
-        "node-sass": "^4.12.0",
+        "node-sass": "^4.13.1",
         "path": "^0.12.7",
         "postcss-lazysprite": "^1.8.2",
         "postcss-svg-sprite": "^1.0.6",
